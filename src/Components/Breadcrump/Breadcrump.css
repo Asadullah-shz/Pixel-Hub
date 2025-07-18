@@ -1,0 +1,24 @@
+.breadcrump {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: #5e5e5e;
+    font-size: 16px;
+    font-weight: 600;
+    margin: 60px 5%;
+    text-transform: capitalize;
+}
+
+@media (max-width: 768px) {
+    .breadcrump {
+        font-size: 14px;
+        margin: 40px 5%;
+    }
+}
+
+@media (max-width: 480px) {
+    .breadcrump {
+        font-size: 12px;
+        margin: 30px 5%;
+    }
+}
