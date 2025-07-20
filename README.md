@@ -14,7 +14,7 @@ This is a fully functional e-commerce website built using React. It features a s
 - React
 - CSS
 - HTML
-- React Router
+- 
 - JavaScript
 
 ## Installation Process
